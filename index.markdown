@@ -6,4 +6,3 @@ layout: home
 ---
 
 ![Pictuere alt](assets\img\MinecraftHanger.jpg)
-Jak by ti bylo

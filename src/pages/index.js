@@ -34,7 +34,7 @@ const IndexPage = ({
         <p>
           Web vznikl jako kařdoroční tradice studentů, kteří odcestují do
           Orindy, díky programu{" "}
-          <a href="https://orindaklub.com" className="un">
+          <a href="https://orindaklub.cz" className="un">
             Orinda Klubu Tábor
           </a>
         </p>
